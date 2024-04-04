@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themexsays
 - 👀 I’m interested in linux and coding.  
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on games and education.  
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on games, education and product development.  
 - 📫 How to reach me at rnapier2@mac.com email me.
 
 <!---
